@@ -70,7 +70,9 @@
         "https://www.musixmatch.com/creator/Abu-Sayed-6",
         "https://genius.com/artists/Abu-sayed",
         "https://abusayed.com.bd/projects/nai-tumi-nai-vol-2/",
-        "https://suno.com/song/a7d74db3-c909-4917-9324-6192854a4db3"
+        "https://suno.com/song/a7d74db3-c909-4917-9324-6192854a4db3",
+        "https://www.youtube.com/watch?v=kP7ALuN8_Wc",
+        "https://music.youtube.com/watch?v=kP7ALuN8_Wc"
       ]
     },
     {
@@ -96,7 +98,9 @@
         "https://www.musixmatch.com/creator/Abu-Sayed-6",
         "https://genius.com/artists/Abu-sayed",
         "https://abusayed.com.bd/projects/nai-tumi-nai-vol-2/",
-        "https://suno.com/song/a7d74db3-c909-4917-9324-6192854a4db3"
+        "https://suno.com/song/a7d74db3-c909-4917-9324-6192854a4db3",
+        "https://www.youtube.com/watch?v=kP7ALuN8_Wc",
+        "https://music.youtube.com/watch?v=kP7ALuN8_Wc"
       ]
     },
     {
@@ -208,7 +212,9 @@
         "https://www.musixmatch.com/creator/Abu-Sayed-6",
         "https://genius.com/artists/Abu-sayed",
         "https://abusayed.com.bd/projects/nai-tumi-nai-vol-2/",
-        "https://suno.com/song/a7d74db3-c909-4917-9324-6192854a4db3"
+        "https://suno.com/song/a7d74db3-c909-4917-9324-6192854a4db3",
+        "https://www.youtube.com/watch?v=kP7ALuN8_Wc",
+        "https://music.youtube.com/watch?v=kP7ALuN8_Wc"
       ]
     }
   ]
@@ -549,6 +555,7 @@
         <div class="controls">
             <button class="btn-speak" id="speakBtn" title="Read the lyrics aloud"><span id="speakText">Read Aloud</span></button>
             <a class="control-btn is-website" href="https://abusayed.com.bd/projects/nai-tumi-nai-vol-2/" target="_blank" rel="noopener noreferrer" title="Official website for Nai Tumi Nai, Vol. 2">Official Site</a>
+            <button class="control-btn is-youtube" id="youtubeModalBtn" type="button" title="Watch Nai Tumi Nai, Vol. 2 on YouTube">YouTube</button>
         </div>
         <br>
 <center>
@@ -658,6 +665,25 @@
         </footer>
     </main>
 
+    <div class="modal-backdrop" id="youtubeModal" aria-hidden="true">
+        <div class="modal-card" role="dialog" aria-modal="true" aria-label="YouTube video player">
+            <button class="modal-close" id="youtubeModalClose" type="button" aria-label="Close video">&times;</button>
+            <div class="video-frame">
+                <iframe
+                    id="youtubeFrame"
+                    src=""
+                    title="Nai Tumi Nai, Vol. 2 YouTube Video"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                    allowfullscreen
+                ></iframe>
+            </div>
+            <div class="modal-actions">
+                <a class="modal-link" href="https://www.youtube.com/watch?v=kP7ALuN8_Wc" target="_blank" rel="noopener noreferrer">Open on YouTube</a>
+                <a class="modal-link" href="https://music.youtube.com/watch?v=kP7ALuN8_Wc" target="_blank" rel="noopener noreferrer">Play on YouTube Music</a>
+            </div>
+        </div>
+    </div>
+
 
     <script>
         const btn = document.getElementById("speakBtn");
@@ -688,7 +714,7 @@
         const youtubeModalBtn = document.getElementById("youtubeModalBtn");
         const youtubeModalClose = document.getElementById("youtubeModalClose");
         const youtubeFrame = document.getElementById("youtubeFrame");
-        const youtubeEmbedUrl = "";
+        const youtubeEmbedUrl = "https://www.youtube.com/embed/kP7ALuN8_Wc?autoplay=1&rel=0";
 
         const closeYoutubeModal = () => {
             if (!youtubeModal || !youtubeFrame) {
