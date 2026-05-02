@@ -1,6 +1,6 @@
 # Nai Tumi Nai, Vol. 2
 
-![Nai Tumi Nai, Vol. 2 feature image](https://raw.githubusercontent.com/ImAbuSayed/abu-sayed-song-media/main/songs/nai-tumi-nai-vol-2/feature/20260502114604-Nai-Tumi-Nai-Vol.-2.jpg)
+![Nai Tumi Nai, Vol. 2 feature image](https://raw.githubusercontent.com/ImAbuSayed/abu-sayed-song-media/main/songs/nai-tumi-nai-vol-2/feature/20260502115949-Nai-Tumi-Nai-Vol.-2.jpg)
 
 ---
 
