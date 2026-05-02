@@ -11,7 +11,7 @@
 | Title | Nai Tumi Nai, Vol. 2 |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
 | Lyric Writing Date | May 02, 2026 |
-| Song Page | Pending |
+| Song Page | [Open Song Page](https://imabusayed.github.io/nai-tumi-nai-vol-2/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
 
