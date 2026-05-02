@@ -1,5 +1,9 @@
 # Nai Tumi Nai, Vol. 2
 
+![Nai Tumi Nai, Vol. 2 feature image](https://raw.githubusercontent.com/ImAbuSayed/abu-sayed-song-media/main/songs/nai-tumi-nai-vol-2/feature/20260502114604-Nai-Tumi-Nai-Vol.-2.jpg)
+
+---
+
 **An original song written and composed by [Abu Sayed](https://abusayed.com.bd/)**
 
 ---
@@ -11,6 +15,8 @@
 | Title | Nai Tumi Nai, Vol. 2 |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
 | Lyric Writing Date | May 02, 2026 |
+| Song Creation Date | May 02, 2026 |
+| Official Release Date | May 02, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/nai-tumi-nai-vol-2/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
@@ -26,6 +32,12 @@
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
+
+---
+
+## Song Links
+
+- [Website](https://abusayed.com.bd/projects/nai-tumi-nai-vol-2/)
 
 ---
 
