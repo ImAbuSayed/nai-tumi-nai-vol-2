@@ -38,6 +38,7 @@
 ## Song Links
 
 - [Website](https://abusayed.com.bd/projects/nai-tumi-nai-vol-2/)
+- [YouTube](https://www.youtube.com/watch?v=kP7ALuN8_Wc)
 
 ---
 
