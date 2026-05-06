@@ -19,7 +19,7 @@
 | Official Release Date | May 02, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/nai-tumi-nai-vol-2/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Request Licensing for Nai Tumi Nai, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://www.youtube.com/watch?v=kP7ALuN8_Wc?https://imabusayed.github.io/nai-tumi-nai-vol-2/) |
+| Get License | [Official Usage Rights for Nai Tumi Nai, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://www.youtube.com/watch?v=kP7ALuN8_Wc?https://imabusayed.github.io/nai-tumi-nai-vol-2/) |
 | Artist | Abu Sayed |
 
 ---
