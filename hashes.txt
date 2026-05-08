@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Nai Tumi Nai, Vol. 2
+
+This log tracks the cryptographic history and versioning for the song **Nai Tumi Nai, Vol. 2** (nai-tumi-nai-vol-2).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T18:08:21.354994 | `v1` | `9aa39d2361a626cd2008d3cd781601c26cd1cdd40453e09f18906eb88a33eaed` | `62b6031c6765f739d724aed7e9bd39afa0c81e3455bfb964e8df1635784d9a6f` | `2026-05-08_nai-tumi-nai-vol-2-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
